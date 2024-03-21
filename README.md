@@ -54,6 +54,7 @@ A página contém campos para inserção do texto a ser criptografado ou descrip
 
 <br>
 
-<div align="center">
-© 2024 Maria Luisa Mendes Rodrigues. Todos os direitos reservados.
-</div>
+
+<div align="center"><img src="https://private-user-images.githubusercontent.com/102841560/314784321-ca5b0284-07c1-4fb4-9387-979c7a931614.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA5ODE5NDMsIm5iZiI6MTcxMDk4MTY0MywicGF0aCI6Ii8xMDI4NDE1NjAvMzE0Nzg0MzIxLWNhNWIwMjg0LTA3YzEtNGZiNC05Mzg3LTk3OWM3YTkzMTYxNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyMVQwMDQwNDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMmQ4MDI5Mjc2ZWY2OGNiMjM4ZjY0NzYxMWJlNWRkYWFjM2Y1NDI5NWMzZGZjMDcwMmJjMjg5OGJiMmJhZGI1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.VXa-ihf4aTpdWzopiH5Am9MUMzsbiCk0Goe2hUnLckY" height="150px" /></div>
+
+##
